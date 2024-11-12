@@ -4,7 +4,7 @@
 
 ### 🔗 Enlace limpieza: https://github.com/alfredoaroterleira/benchmarking_limpieza 
 
-## 📖 Diccionario de datos: Cap_100_Infraestructura
+## 📖 Diccionario de datos
 | *Variable*         | *Descripción*                                                                                         |
 |----------------------|---------------------------------------------------------------------------------------------------------|
 | *DISTRITO*   | División administrativa de tercer nivel                                                |
